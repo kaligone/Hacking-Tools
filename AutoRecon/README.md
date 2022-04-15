@@ -26,13 +26,20 @@ $ mv figlet-fonts/* figlet && rm -rf figlet-fonts
 
 ## How to use ?
 After installing all the dependancies mentioned above :
+
 $ cd AutoRecon
+
 $ bash recon.sh
-$ Enter the IP or URL of the target machine
-$ Enter the option given available to use in one line seperated by space
-$ The script will start running 
-$ After the recon is finished
-$ The recon results are stored in  rcon_result.txt file in same directoy
+
+Enter the IP or URL of the target machine
+
+Enter the option given available to use in one line seperated by space
+
+The script will start running 
+
+After the recon is finished
+
+The recon results are stored in  rcon_result.txt file in same directoy
 
 
 ## Colors ,Bold,underline and text intensity for echo output
