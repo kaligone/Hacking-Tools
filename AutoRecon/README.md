@@ -35,7 +35,7 @@ After the recon is finished
 The recon results are stored in  rcon_result.txt file in same directoy
 
 
-##Colors ,Bold,underline and text intensity for echo output
+## Colors ,Bold,underline and text intensity for echo output
 
 Reset
 Color_Off='\033[0m'       # Text Reset
