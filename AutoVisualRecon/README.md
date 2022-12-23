@@ -2,7 +2,9 @@
 
 ### Usage :
   $ git clone https://github.com/kaligone/Hacking-Tools.git
+  
   $ cd AutoVisualRecon
+  
   $ bash visualrecon.sh
   
 ![Screenshot (58)](https://user-images.githubusercontent.com/61344302/209354012-30b5c873-9771-42d6-9686-58a239373c2e.png)
